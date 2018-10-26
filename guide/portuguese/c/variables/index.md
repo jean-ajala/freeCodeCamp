@@ -20,9 +20,9 @@ Agora você sabe quais são suas opções com tipos de dados. Vamos aplicá-lo c
  } 
 ```
 
-Há muitas coisas novas para dar uma olhada aqui! Você já viu o `#include` e `int main(void)` , então não vale a pena ficar pensando nisso. O que é novo é `int my_first_variable = 12;` .
+Há muitas coisas novas para dar uma olhada aqui! Você já viu as bibliotecas `#include` e `int main(void)` , então não vale a pena ficar pensando nisso. O que é novo é `int my_first_variable = 12;` .
 
-De mais cedo, você deve lembrar que `int` nos permite armazenar valores inteiros. Depois que a palavra `int` vem `my_first_variable` . Essa é uma variável - ela pode armazenar valores e você pode alterar quais valores estão sendo armazenados nela. Começamos com uma declaração, em que informamos ao computador que o valor inicial dessa variável é 12. É importante informar ao computador que queremos que exista uma variável antes de tentar usá-la. Caso contrário, a variável não existirá e o compilador não saberá o que fazer quando você tentar dizer para usar uma variável que não existe.
+De mais cedo, você deve lembrar que `int` nos permite armazenar valores inteiros. Depois que a palavra `int` vem `my_first_variable` . Essa é uma variável - ela pode armazenar valores e você pode alterar quais valores estão sendo armazenados nela. Começamos com uma declaração, em que informamos ao computador que o valor inicial dessa variável é 12. É importante informar ao computador que queremos que exista uma variável antes de tentar usá-la. Caso contrário, a variável não existirá e o compilador não saberá o que fazer quando você tentar dizer para usar uma variável que não existe e irá apresentar erro.
 
 A próxima linha é `double my_second_variable = 983.9` . A estrutura semelhante de antes deve deixar claro que você está dizendo ao computador para criar uma variável chamada 'minha _segunda_ variável' que pode conter valores `double` e que você deseja que ela seja definida como 983.9.
 
