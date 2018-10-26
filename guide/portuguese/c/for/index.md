@@ -4,7 +4,9 @@ localeTitle: Para loop
 ---
 # Para loop
 
-O loop `for` executa um bloco de código até que uma condição especificada seja falsa. Use `while` laços quando o número de iterações são variáveis, de outro modo utilizar `for` lacetes. Um uso comum de loops `for` são iterações de array.
+O loop `for` é um conjunto de instruções que um programa de computador percorre e repete um significativo número de vezes até que sejam alcançadas as condições desejadas, executa um bloco de código até que uma condição especificada seja falsa. Use `while` laços quando o número de iterações são variáveis, de outro modo utilizar `for` lacetes. Um uso comum de loops `for` são iterações de array.
+
+
 
 ## Sintaxe do For Loop
 
